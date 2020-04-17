@@ -1,0 +1,3 @@
+# one json file with 10 records
+# get these data through javascript and pass it to ul
+# all alternate record background should be gray
